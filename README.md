@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hello, World!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Backend+Developer;DevOps+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
@@ -22,22 +24,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leraner&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leraner&theme=tokyonight" alt="GitHub Streak" height="170" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Leraner&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leraner&theme=tokyonight" alt="GitHub Streak" height="170" />
 
 ## 🔥 Most Used Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leraner&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leraner&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ## 📈 Activity
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leraner&theme=tokyonight" alt="Activity Graph" />
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leraner&theme=tokyonight" alt="Activity Graph" />
 
 ## 📫 Let's Connect
 
@@ -47,6 +43,6 @@
 
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Leraner&color=blue" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Leraner&color=blue" alt="Profile Views" />
+
 </div>
